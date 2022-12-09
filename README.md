@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thedudedies21
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Jon(Munchy) 
+- 🌱 I develop in python, with intents to learn other languages too
 - 📫 Reach me on discord! thedudedies21#4561
 
 <!---
